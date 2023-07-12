@@ -6,4 +6,4 @@ I am genomics researcher, focusing on multiomics data.
 
 I am interested in big data, machine learning, AI and bioinformatics.
 
-I focus my research on the microbiome and Cannabis 
+I focus my research on the microbiome and the Cannabis plant
