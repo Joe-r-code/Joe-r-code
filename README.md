@@ -1,5 +1,3 @@
-hat sequbce data shoukd be embedded with as much informatiknHello and welcome,
-
 This is a github page for my projects.
 
 I am genomics researcher, focusing on multiomics data.
